@@ -1,6 +1,4 @@
-Here’s a refined version of your description with improved clarity and readability:
 
----
 
 ### **CSCM Concrete Model Input Generator for LS-DYNA**
 
@@ -47,5 +45,3 @@ If you find this tool helpful, please consider citing it:
 
 ---
 
-If you find this tool useful, please consider **sharing your feedback** or **spreading the word**.  
-Thank you for your support! 🚀
