@@ -4,7 +4,7 @@
 
 The **CSCM (Continuous Surface Cap Model)** is designed to accurately simulate concrete behavior under various loading conditions. However, configuring the CSCM model requires complex parameter calculations, which can be challenging for practical applications.
 
-To simplify this process, I have developed this **automated tool** that generates the required input parameters for the CSCM concrete model in **LS-DYNA**. The tool requires only **two input parameters**:  
+To simplify this process, I have developed this **tool** that generates the required input parameters for the CSCM concrete model in **LS-DYNA**. The tool requires only **two input parameters**:  
 
 - **fc** (compressive strength of concrete)  
 - **Maximum aggregate size**  
@@ -19,7 +19,7 @@ This tool is based on the research published in the following paper:
 
 ### **Feedback & Issues**  
 🚀 This is a **beta version**. If you encounter any bugs or issues, please report them on **GitHub**:  
-🔗 **[GitHub Repository](https://github.com/amaelkady/ABAQUS-T...)**
+
 
 ---
 
